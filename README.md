@@ -1,4 +1,4 @@
-# 🐳 Docker Junior App – Node.js + PostgreSQL + Adminer
+# 🐳 Docker Microservice App & DB Integration
 
 ## 📖 Descrizione
 
