@@ -44,6 +44,16 @@ Tutti i servizi comunicano tra loro su una **rete Docker privata**, isolata dal 
 
 ---
 
+## 🔐 Credenziali per accesso al DB
+
+container_name: DB
+
+    USER: user  
+    PASSWORD: password  
+    DB: mydb
+
+---
+
 ## 🧩 Avvio del progetto
 
 Assicurati di avere **Docker** e **Docker Compose** installati.  
@@ -51,3 +61,6 @@ Poi esegui:
 
 ```bash
 docker compose up -d --build
+
+
+
