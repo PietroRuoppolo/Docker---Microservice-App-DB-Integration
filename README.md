@@ -2,8 +2,8 @@
 
 ## 📖 Descrizione
 
-Ho realizzato un progetto **Docker** in cui ho containerizzato una mini-app basata su **Node.js** e **PostgreSQL**, con l’obiettivo di dimostrare la mia capacità di costruire, collegare e orchestrare servizi Docker reali.  
-L’applicazione include endpoint di **healthcheck**, **API REST**, un pannello database **Adminer** e una **pagina web** che mostra lo stato del servizio e l’URL di accesso.
+Ho realizzato un progetto Docker in cui ho containerizzato una mini-app basata su Node.js e PostgreSQL, con l’obiettivo di dimostrare la mia capacità di costruire e gestire servizi Docker.
+L’applicazione include endpoint di healthcheck, API REST, un pannello database "Adminer" e una pagina web che mostra lo stato del servizio e l’URL di accesso.
 
 ---
 
