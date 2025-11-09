@@ -61,6 +61,3 @@ Poi esegui:
 
 ```bash
 docker compose up -d --build
-
-
-
